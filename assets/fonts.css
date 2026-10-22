@@ -1,0 +1,100 @@
+/* Písma: Cinzel a Cormorant Garamond (SIL Open Font License) */
+/* cinzel-latin-400-normal */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/cinzel-latin-400-normal.woff2) format("woff2");
+}/* cinzel-latin-ext-400-normal */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/cinzel-latin-ext-400-normal.woff2) format("woff2");
+}/* cinzel-latin-600-normal */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(fonts/cinzel-latin-600-normal.woff2) format("woff2");
+}/* cinzel-latin-ext-600-normal */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(fonts/cinzel-latin-ext-600-normal.woff2) format("woff2");
+}/* cinzel-latin-700-normal */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/cinzel-latin-700-normal.woff2) format("woff2");
+}/* cinzel-latin-ext-700-normal */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/cinzel-latin-ext-700-normal.woff2) format("woff2");
+}/* cormorant-garamond-latin-400-normal */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/cormorant-garamond-latin-400-normal.woff2) format("woff2");
+}/* cormorant-garamond-latin-ext-400-normal */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/cormorant-garamond-latin-ext-400-normal.woff2) format("woff2");
+}/* cormorant-garamond-latin-400-italic */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/cormorant-garamond-latin-400-italic.woff2) format("woff2");
+}/* cormorant-garamond-latin-ext-400-italic */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/cormorant-garamond-latin-ext-400-italic.woff2) format("woff2");
+}/* cormorant-garamond-latin-600-normal */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(fonts/cormorant-garamond-latin-600-normal.woff2) format("woff2");
+}/* cormorant-garamond-latin-ext-600-normal */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(fonts/cormorant-garamond-latin-ext-600-normal.woff2) format("woff2");
+}/* cormorant-garamond-latin-600-italic */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src: url(fonts/cormorant-garamond-latin-600-italic.woff2) format("woff2");
+}/* cormorant-garamond-latin-ext-600-italic */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src: url(fonts/cormorant-garamond-latin-ext-600-italic.woff2) format("woff2");
+}
